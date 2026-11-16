@@ -33,7 +33,7 @@ You need **Windows 10 or 11** and **Python 3.10 or newer** ([download](https://w
 
 ```bash
 git clone https://github.com/git-Snehal/Laptop-Dynamic-Island.git
-cd Laptop-Dynamix-Island
+cd Laptop-Dynamic-Island
 run.bat
 ```
 
