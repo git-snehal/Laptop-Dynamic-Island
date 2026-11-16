@@ -1,0 +1,18 @@
+{
+  "position": { "mode": "center", "x": null, "y": 79 },
+  "hotkey": "ctrl+space",
+  "clock_24h": true,
+  "appearance": { "fill_opacity": 0.98, "accent_from_art": true },
+  "quick_apps": [
+    { "label": "Spotify",    "glyph": "♫", "color": "#1DB954", "type": "uri",       "target": "spotify:" },
+    { "label": "Camera",     "glyph": "◉", "color": "#8B9CFF", "type": "uri",       "target": "microsoft.windows.camera:" },
+    { "label": "Snipping",   "glyph": "✂", "color": "#8B9CFF", "type": "hotkey",    "target": "win+shift+s" },
+    { "label": "Recorder",   "glyph": "●", "color": "#EF4444", "type": "hotkey",    "target": "win+alt+r" },
+    { "label": "Bluetooth",  "glyph": "ᛒ", "color": "#3B9EFF", "type": "bluetooth", "target": "" },
+    { "label": "Wi-Fi",      "glyph": "◔", "color": "#60A5FA", "type": "uri",       "target": "ms-settings:network-wifi" },
+    { "label": "Clock",      "glyph": "◷", "color": "#F59E0B", "type": "uri",       "target": "ms-clock:" },
+    { "label": "Calculator", "glyph": "∑", "color": "#A78BFA", "type": "exe",       "target": "calc" },
+    { "label": "Settings",   "glyph": "⚙", "color": "#A1A1AA", "type": "uri",       "target": "ms-settings:" },
+    { "label": "Notes",      "glyph": "✎", "color": "#EAB308", "type": "notes",     "target": "" }
+  ]
+}

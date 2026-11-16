@@ -1,0 +1,6 @@
+# Optional: each line is installed on its own by run.bat, so one failing never blocks the rest.
+winrt-Windows.Media.Control
+winrt-Windows.Storage.Streams
+winrt-Windows.Foundation
+winrt-Windows.Foundation.Collections
+winrt-Windows.Devices.Radios
